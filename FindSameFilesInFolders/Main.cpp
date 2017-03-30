@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
 	if (argc == 0) {
 	
 		std::cout << "Usage:" << std::endl;
-		std::cout << "Usage:" << std::endl;
+		std::cout << "FindSameFilesInFolders.exe C:\app C:\app2" << std::endl;
 		return 0;
 	}
 	for (int i = 0; i < argc; i++) {
